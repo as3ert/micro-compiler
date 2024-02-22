@@ -1,10 +1,6 @@
-# CSC4180 Assignment 1 Report
+# Micro Compiler Implemented with Flex and Bison
 
-**Name:** Guangxin Zhao
-
-**Student ID:** 120090244
-
-**Date:** Feb 22nd, 2024
+Course project for CSC4180: Compiler Construction in CUHK(SZ), 2024 Spring.
 
 ---
 
