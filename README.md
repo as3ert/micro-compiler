@@ -14,15 +14,15 @@ project
 |--- testcases
 |-
 |--- src
-		|-
-		|--- ir_generator.cpp
-		|--- ir_generator.hpp
-		|--- main.cpp
-		|--- Makefile
-		|--- node.cpp
-		|--- node.hpp
-		|--- parser.y
-		|--- scanner.l
+	|-
+	|--- ir_generator.cpp
+	|--- ir_generator.hpp
+	|--- main.cpp
+	|--- Makefile
+	|--- node.cpp
+	|--- node.hpp
+	|--- parser.y
+	|--- scanner.l
 ```
 
 ## How to execute the compiler?
