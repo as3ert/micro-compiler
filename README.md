@@ -1,6 +1,6 @@
 # Micro Compiler Implemented with Flex and Bison
 
-Course project for CSC4180: Compiler Construction in CUHK(SZ), 2024 Spring.
+Course project for CSC4180: Compiler Construction @ CUHK(SZ), 2024 Spring.
 
 ---
 
