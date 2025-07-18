@@ -31,6 +31,7 @@ You can test the full compiler pipeline (scanner → parser → IR → RISC-V �
 
 ```bash
 bash run_all_tests.sh
+```
 
 ## How do I design the Scanner?
 
